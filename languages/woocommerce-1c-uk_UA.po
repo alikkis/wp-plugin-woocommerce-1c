@@ -1,0 +1,76 @@
+# Copyright (C) 2016 WooCommerce and 1C:Enterprise/1С:Предприятие Data Exchange
+# This file is distributed under the same license as the WooCommerce and 1C:Enterprise/1С:Предприятие Data Exchange package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce and 1C:Enterprise/1С:Предприятие Data "
+"Exchange 0.7\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/woocommerce-1c\n"
+"POT-Creation-Date: 2016-02-23 20:19:20+00:00\n"
+"PO-Revision-Date: 2026-01-12 20:34+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: uk_UA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.8\n"
+
+#: admin.php:19 admin.php:51 admin.php:68 admin.php:87
+msgid "1C Id"
+msgstr "1C Id"
+
+#: admin.php:135 admin.php:145
+msgid "Say thank you to plugin author"
+msgstr "Скажіть подяку автору плагіна"
+
+#: admin.php:135 admin.php:145
+msgid "Say thank you!"
+msgstr "Скажи дякую!"
+
+#: admin.php:153
+msgid "1C"
+msgstr "1C"
+
+#: admin.php:154
+msgid "Settings"
+msgstr "Налаштування"
+
+#: admin.php:155
+msgid "TODO"
+msgstr "TODO"
+
+#: exchange.php:2
+msgid ""
+"The exchange using direct URL is not supported anymore. Please change your "
+"exchange URL to http://example.com/?wc1c=exchange."
+msgstr ""
+"Обмін через пряму URL-адресу більше не підтримується. Будь ласка, змініть "
+"URL-адресу вашого обміну на http://example.com/?wc1c=exchange."
+
+#: woocommerce-1c.php:29
+msgid ""
+"Plugin <strong>%s</strong> requires plugin <strong>WooCommerce</strong> to "
+"be installed and activated."
+msgstr ""
+"Плагін <strong>%s</strong> вимагає встановлення та активації плагіна "
+"<strong>WooCommerce</strong>."
+
+#. Plugin Name of the plugin/theme
+msgid "WooCommerce and 1C:Enterprise/1С:Предприятие Data Exchange"
+msgstr "WooCommerce і 1С:Підприємство/BAS:Підприємство Обмін даними"
+
+#. Description of the plugin/theme
+msgid ""
+"Provides data exchange between eCommerce plugin WooCommerce and business "
+"application \"1C:Enterprise 8. Trade Management\"."
+msgstr ""
+"Забезпечує обмін даними між плагіном електронної комерції WooCommerce та "
+"бізнес-додатком \"BAS 8. Управління торгівлею\"."
+
+#. Author of the plugin/theme
+msgid "Danil Semelenov"
+msgstr "Danil Semelenov"
+
+#. Author URI of the plugin/theme
+msgid "mailto:mail@danil.mobi"
+msgstr "mailto:mail@danil.mobi"
